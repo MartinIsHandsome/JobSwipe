@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.studentAndStuff{
+  padding-left: 220px;
+  padding-top: 35px;
+}
+
+.studentAndStuff h1{
+  padding-left: 0px;
+  padding-top: 5px;
+font-size: 45px;
+}
+
+.JobDivWithEverything {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.JobDivWithEverything h1 {
+  font-size: 24px;
+}
+
+.JobDivWithEverything p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.studentAndStuff h4{
+  padding-left: 0px;
+  padding-top: 5px;
+font-size: 25px;
+}
+
+.coolAssButtons {
+  margin: 15px; /* Adjust this value to reduce the margin */
+  
+  padding: 5px 20%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.coolAssButtons button {
+  margin-right: 5px;
+  font-size: 35px;
+  padding: 15px;
+  margin-right: 10px;
+  background-color:rgb(162, 161, 161);
+  color: black;
+transition: 0.5s;
+}
+
+.coolAssButtons button:hover {
+  margin-right: 5px;
+  font-size: 35px;
+  padding: 23px;
+  margin-right: 10px;
+  background-color:rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+
+.hell {
+  font-size: 30px;
+  color: red;
+  padding: 10px; /* Adjust this value to reduce the padding */
+  transition: 0.3s;
+  border-radius: 10px; /* Reduced from 190px */
+  height: 80px; /* Reduced from 120px */
+  width: 80px; /* Reduced from 120px */
+}
+
+/* Rest of your CSS remains the same */
+
+.hell:hover{
+  font-size: 30px;
+  color: aqua;
+  background-color: black;
+  padding: 30px;
+}
+
+
+.logoClass{
+    width: 5%;
+    text-align: center;
+  }
+  
+.randomSlide{ 
+  display: flex;
+  justify-content: space-between;
+ display: inline-block;
+ text-align: center;
+}
+
+
+.randomSlide ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.its{
+  font-size: 85px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.randomSlide ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+
+
+.porn{
+  max-width: 65%;
+}
+
