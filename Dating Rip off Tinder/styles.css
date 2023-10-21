@@ -15,12 +15,39 @@ font-size: 45px;
 }
 
 .JobDivWithEverything {
+  margin-top: 45px;
   background-color: white;
   padding: 20px;
   text-align: center;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
+/* Your existing CSS */
+
+.button-container {
+  text-align: center;
+  
+  margin-top: 20px;
+}
+
+.swipe-button {
+  font-size: 30px;
+  padding: 63px 45px;
+  margin: 70px; /* Adjust the margin to control the spacing between the buttons */
+border-radius: 99px;
+}
+
+.swipe-button.left {
+  background-color: red; /* Customize the button styling as needed */
+  color: white;
+}
+
+.swipe-button.right   {
+  background-color: green; /* Customize the button styling as needed */
+  color: white;
+}
+
 
 .JobDivWithEverything h1 {
   font-size: 24px;
